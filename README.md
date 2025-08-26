@@ -27,11 +27,12 @@ A simple and interactive web-based Todo app built with **HTML, CSS, JavaScript, 
 
 ## Live Demo
 
-[Add your GitHub Pages link here]
+https://harshit4847.github.io/todoapp/
 
 ## Screenshots
 
-![Screenshot](link-to-screenshot.png)
+<img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/40b266bb-eff9-42ad-bee6-a7e827e3d2cb" />
+
 
 ## License
 
