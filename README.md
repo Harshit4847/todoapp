@@ -3,6 +3,7 @@
 A simple and interactive web-based Todo app built with **HTML, CSS, JavaScript, and Firebase**. Users can sign up, log in, and manage tasks in real-time.
 
 ## Features
+
 - User Authentication (Sign Up / Login) with Firebase
 - Add, update, and delete tasks
 - Mark tasks as completed
@@ -10,22 +11,23 @@ A simple and interactive web-based Todo app built with **HTML, CSS, JavaScript, 
 - Responsive and clean UI
 
 ## Tech Stack
+
 - HTML, CSS, JavaScript
 - Firebase Authentication
 - Firebase Firestore (Realtime Database)
 
 ## Usage
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-````
-
-2. Open `index.html` in your browser
-3. Sign up or log in to start managing your tasks
+   ```
+2. Open `index.html` in your browser.
+3. Sign up or log in to start managing your tasks.
 
 ## Live Demo
 
-\[Add your GitHub Pages link here]
+[Add your GitHub Pages link here]
 
 ## Screenshots
 
